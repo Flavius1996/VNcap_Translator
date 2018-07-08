@@ -1,0 +1,9 @@
+C:\Users\Flv\Desktop\VNcap_Translator\VNcap_Annotator\bin\Release\VNcap_Annotator.exe.config
+C:\Users\Flv\Desktop\VNcap_Translator\VNcap_Annotator\bin\Release\VNcap_Annotator.exe
+C:\Users\Flv\Desktop\VNcap_Translator\VNcap_Annotator\bin\Release\VNcap_Annotator.pdb
+C:\Users\Flv\Desktop\VNcap_Translator\VNcap_Annotator\obj\Release\VNcap_Annotator.Form1.resources
+C:\Users\Flv\Desktop\VNcap_Translator\VNcap_Annotator\obj\Release\VNcap_Annotator.Properties.Resources.resources
+C:\Users\Flv\Desktop\VNcap_Translator\VNcap_Annotator\obj\Release\VNcap_Annotator.csproj.GenerateResource.cache
+C:\Users\Flv\Desktop\VNcap_Translator\VNcap_Annotator\obj\Release\VNcap_Annotator.csproj.CoreCompileInputs.cache
+C:\Users\Flv\Desktop\VNcap_Translator\VNcap_Annotator\obj\Release\VNcap_Annotator.exe
+C:\Users\Flv\Desktop\VNcap_Translator\VNcap_Annotator\obj\Release\VNcap_Annotator.pdb

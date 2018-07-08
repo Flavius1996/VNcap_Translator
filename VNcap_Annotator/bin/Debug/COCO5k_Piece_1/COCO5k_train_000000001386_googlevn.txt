@@ -1,0 +1,6 @@
+1386
+Một khay màu đen chứa một giỏ khoai tây chiên và bánh sandwich
+Bánh sandwich phụ với một bên của khoai tây chiên và một loại nước giải khát
+Một khay có bánh mì, khoai tây chiên và một đồ uống trên đó
+Một khay thức ăn bao gồm bánh sandwich, khoai tây chiên và đồ uống
+Bữa ăn bao gồm một phụ, khoai tây chiên và pepsi trên một khay
